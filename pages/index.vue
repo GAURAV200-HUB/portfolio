@@ -1,5 +1,9 @@
 <template>
-  <div class="">
-
-  </div>
+  <v-row no-gutters>
+    <Navbar />
+  </v-row>
 </template>
+
+<style>
+
+</style>

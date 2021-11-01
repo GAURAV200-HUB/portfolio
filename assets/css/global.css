@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo&display=swap');
+
+:root {
+    --navbar-font: 'Chivo', sans-serif;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.v-application ul {
+    margin: 0 !important;
+    padding-left: 15px !important;
+}
+
+.facebook {
+    color: #4267B2;
+}
+
+.twitter {
+    color: #1DA1F2;
+}
+
+.linkedin{
+    color: #0e76a8;
+}
+
+.pinterest {
+    color: #c8232c;
+}
+
+.gmail {
+    color: #EA4335;
+}
