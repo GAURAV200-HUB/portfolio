@@ -9,7 +9,7 @@
           />
         </div>
       </v-col>
-      <v-col cols="10" v-if="!$vuetify.breakpoint.smAndDown">
+      <v-col v-if="!$vuetify.breakpoint.smAndDown" cols="10">
         <div class="navbar-list">
           <div class="center">
             <ul v-for="nav in navbar" :key="nav">
